@@ -1428,10 +1428,6 @@ p [style*='max-width'] {
    font-weight: 400;
 }
 
-.contacts-wrap p + .phone-link-second {
-   margin-top: 20px;
-}
-
 .contacts-wrap p + span {
    margin-top: 10px;
 }
